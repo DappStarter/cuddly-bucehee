@@ -1,0 +1,14 @@
+{
+    "name": "aff",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/react": true,
+        "/category/collection/entity": true,
+        "/category/asset_value_tracking/token": true,
+        "/category/asset_value_tracking/token/name": "faf",
+        "/category/asset_value_tracking/token/symbol": "faf",
+        "/category/asset_value_tracking/token/decimals": "0",
+        "/category/asset_value_tracking/token/supply": "100000000000"
+    }
+}
